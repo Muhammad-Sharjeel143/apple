@@ -40,7 +40,7 @@ body{
 }
 /* Section 1 */
 #section-1{
-    background-image: url('/assets/images/iphone_12_pro_us__e5oyysg4k0ya_large_2x.jpg');
+    background-image: url('../images/iphone_12_pro_us__e5oyysg4k0ya_large_2x.jpg');
     background-size: cover;
     background-repeat: none;
     background-position: center;
@@ -72,7 +72,7 @@ body{
 } */
 @media only screen and (max-width:375px){
     #section-1{
-        background-image: url('/assets/images/iphoneflip.jpg');
+        background-image: url('../images/iphoneflip.jpg');
         background-size: cover;
         background-repeat: none;
         background-position: center;
@@ -89,7 +89,7 @@ body{
 
 /* Section a */
 #section-a{
-    background-image: url('/assets/images/iphone_12_updated.jpg');
+    background-image: url('../images/iphone_12_updated.jpg');
     background-size: cover;
     background-repeat: none;
     background-position: center;
@@ -121,7 +121,7 @@ body{
 } */
 @media only screen and (max-width:375px){
     #section-1{
-        background-image: url('/assets/images/iphoneflip.jpg');
+        background-image: url('../images/iphoneflip.jpg');
         background-size: cover;
         background-repeat: none;
         background-position: center;
