@@ -153,6 +153,9 @@ footer{
 .links-col li a:hover{
     color:#1f1f20 ;
 }
+.last-line{
+    font-size: 12px;
+}
 .last-line a{
     font-size: 12px;
     color: rgb(64, 66, 204);
